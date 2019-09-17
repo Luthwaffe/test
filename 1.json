@@ -1,0 +1,34 @@
+{
+	"name"		 : "Bambang Yulianto",
+	"Age" 		 : "24",
+	"address"	 : "Pamulang",
+	"hobbies"	 : "Listen Music",
+	"is_married" : "false",
+	"list_school": [
+	{
+	 "name" 	: "SDN Cilenggang 1",
+	 "year_in"	: "2001",
+	 "year_out"	: "2007",
+	 "major"	: "null"
+	},
+	{
+	 "name"		: "SMPN 1 Serpong",
+	 "year_in"	: "2007",
+	 "year_out"	: "2010",
+	 "major"	: "null"
+	},
+	{
+	 "name"		: "SMKN 1 Tangsel",
+	 "year_in"	: "2010",
+	 "year_out"	: "2013",
+	 "major"	: "Electrical Engineering"
+	},
+	{
+	 "name"		: "Universitas Pamulang",
+	 "year_in"	: "2014",
+	 "year_out"	: "2018",
+	 "major"	: "Information Technology"
+	}
+	]
+
+}
